@@ -1,4 +1,4 @@
-const CONFIG = {
+const CONFIG = {praecellens.org
   // profile setting (required)
   profile: {
     name: "morethanmin",
